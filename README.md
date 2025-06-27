@@ -1,6 +1,7 @@
 # Customer Churn Analysis and Prediction in Telecom
 ---
 
+
 Latar belakang: Dalam industri telekomunikasi, tingkat churn (pelanggan yang berhenti menggunakan layanan) adalah indikator penting dalam menilai kepuasan dan loyalitas pelanggan. Untuk mempertahankan pelanggan dan meningkatkan pendapatan, perusahaan harus memahami karakteristik dan perilaku pelanggan melalui data.
 
 Pertanyaan bisnis:
