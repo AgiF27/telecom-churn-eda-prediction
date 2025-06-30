@@ -21,7 +21,7 @@ Pertanyaan bisnis:
 
 ## Data Understanding
 ---
-Dataset yang digunakan dalam proyek ini bernama "Student Performance Factors" dan dapat diakses melalui [tautan](https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset/code). Dataset ini berisi 243552 baris data pelanggan dari empat mitra telekomunikasi utama di india: Airtel, Reliance Jio, Vodafone, dan BSNL. Kumpulan data ini mencakup berbagai variabel demografi, lokasi, dan pola penggunaan untuk setiap pelanggan, serta variabel biner yang menunjukkan apakah pelanggan tersebut telah berhenti berlangganan atau tidak.
+Dataset yang digunakan dalam proyek ini bernama "Telecom Churn Dataset" dan dapat diakses melalui [tautan](https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset/code). Dataset ini berisi 243552 baris data pelanggan dari empat mitra telekomunikasi utama di india: Airtel, Reliance Jio, Vodafone, dan BSNL. Kumpulan data ini mencakup berbagai variabel demografi, lokasi, dan pola penggunaan untuk setiap pelanggan, serta variabel biner yang menunjukkan apakah pelanggan tersebut telah berhenti berlangganan atau tidak.
 
 ![Image](https://github.com/user-attachments/assets/217c1ba3-8644-47b1-bb3f-66f3cf339f96)
 
